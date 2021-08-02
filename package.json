@@ -1,6 +1,6 @@
 {
   "name": "djs-linereply",
-  "version": "2.2.1",
+  "version": "2.3.0",
   "description": "This package allows you to add in-line relies using discord.js  very easily.",
   "main": "index.js",
   "scripts": {
